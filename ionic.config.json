@@ -1,0 +1,8 @@
+{
+  "name": "Presentacion",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "de6f55c4"
+}
